@@ -1,37 +1,37 @@
-* `name`
+// * `name`
 
-* `id`
+// * `id`
 
-* `email`
+// * `email`
 
-* `getName()`
+// * `getName()`
 
-* `getId()`
+// * `getId()`
 
-* `getEmail()`
+// * `getEmail()`
 
-* `getRole()`&mdash;returns `'Employee'`
+// * `getRole()`&mdash;returns `'Employee'`
 
-The other three classes will extend `Employee`.
+// The other three classes will extend `Employee`.
 
-In addition to `Employee`'s properties and methods, `Manager` will also have the following:
+// In addition to `Employee`'s properties and methods, `Manager` will also have the following:
 
-* `officeNumber`
+// * `officeNumber`
 
-* `getRole()`&mdash;overridden to return `'Manager'`
+// * `getRole()`&mdash;overridden to return `'Manager'`
 
-In addition to `Employee`'s properties and methods, `Engineer` will also have the following:
+// In addition to `Employee`'s properties and methods, `Engineer` will also have the following:
 
-* `github`&mdash;GitHub username
+// * `github`&mdash;GitHub username
 
-* `getGithub()`
+// * `getGithub()`
 
-* `getRole()`&mdash;overridden to return `'Engineer'`
+// * `getRole()`&mdash;overridden to return `'Engineer'`
 
-In addition to `Employee`'s properties and methods, `Intern` will also have the following:
+// In addition to `Employee`'s properties and methods, `Intern` will also have the following:
 
-* `school`
+// * `school`
 
-* `getSchool()`
+// * `getSchool()`
 
-* `getRole()`&mdash;overridden to return `'Intern'`
+// * `getRole()`&mdash;overridden to return `'Intern'`
