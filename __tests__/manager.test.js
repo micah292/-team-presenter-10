@@ -1,5 +1,5 @@
 // * `name`
-
+const manager = ("../lib/Manager ");
 // * `id`
 
 // * `email`

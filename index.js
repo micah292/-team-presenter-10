@@ -1,7 +1,4 @@
-const employee = ("  ")
-const Engineer =("  ")
-const Intern  =("  ")
-const manager = ("  ")
-
-
-const 
+const employee = ("  ");
+const Engineer =("  ");
+const Intern  =("  ");
+const manager = ("  ");

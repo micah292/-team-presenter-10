@@ -1,5 +1,5 @@
 //* `name`
-
+const Employee = ("../lib/employee")
 //* `id`
 
 //* `email`
